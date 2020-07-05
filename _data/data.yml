@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: werty.stgo@gmail.com
+    email: josemfl@protonmail.com
     phone: 665530869
     website: jocefello.github.io/personal/ #do not add http://
     linkedin: josefl88
@@ -101,15 +101,13 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Técnico instalador
+      time: Mayo 2015 - Diciembre 2015
+      company: Coremain, Santiago de Compostela
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Proyecto de substitución de equipos informáticos de los Hospitales y
+        centros de salud de toda Galicia (SERGAS). Transporte, instalacion y 
+        configuracion de equipos HP
           - Bullet point
           - Bullet point
 projects:
