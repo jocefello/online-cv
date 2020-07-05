@@ -75,20 +75,27 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Tecnico de campo 
+- role: Administrador de sistemas 
+      time: Enero 2018 - Acte.
+      company: Tragsa, Santiago de Compostela
+      details: |
+        Administrador de sistemas informaticos de la Unidad territorial Galicia, Asturias
+        y Cantabria; soporte a mas de 700 usuarios,
+        
+    - role: Técnico de campo 
       time: Abril 2017 - Mayo 2017
       company: I3E IT Resources, A Coruña
       details: |
-        Instalacion y configuracion de equipos detectores de billetes falsos "Detectalia" en
+        Pequeño proyecto de instalación y configuración de equipos detectores de billetes falsos "Detectalia" en
         las tiendas de la CCAA de Galicia del grupo INDITEX.
          
-    - role: Tecnico de soporte 
+    - role: Técnico de soporte 
       time: Septiembre 2016 - Enero 2017
       company: Plexus , Santiago de Compostela
       details: |
         Soporte tecnico telefónico de primer nivel del CAU de educación de la Xunta de Galicia.
 
-    - role: Tecnico de soporte 
+    - role: Técnico de soporte 
       time: Enero 2016 - Julio 2016
       company: Dell, A Coruña
       details: |
