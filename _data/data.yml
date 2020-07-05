@@ -74,8 +74,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
 experiences:
-- role: Administrador de sistemas 
+    - role: Administrador de sistemas 
       time: Enero 2018 - Actualmente 2020
       company: Tragsa, Santiago de Compostela
       details: |
