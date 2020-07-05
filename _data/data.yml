@@ -75,21 +75,19 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-     - role: Tecnico de campo 
+    - role: Tecnico de campo 
       time: Abril 2017 - Mayo 2017
       company: I3E IT Resources, A Coruña
       details: |
         Instalacion y configuracion de equipos detectores de billetes falsos "Detectalia" en
         las tiendas de la CCAA de Galicia del grupo INDITEX.
-          - Bullet point
-          - Bullet point
-     - role: Tecnico de soporte 
+         
+    - role: Tecnico de soporte 
       time: Septiembre 2016 - Enero 2017
       company: Plexus , Santiago de Compostela
       details: |
-        Soporte tecnico telefónico de primer nivel del CAU de educación de la Xunta de Galicia; 
-          - Bullet point
-          - Bullet point
+        Soporte tecnico telefónico de primer nivel del CAU de educación de la Xunta de Galicia.
+
     - role: Tecnico de soporte 
       time: Enero 2016 - Julio 2016
       company: Dell, A Coruña
@@ -97,17 +95,15 @@ experiences:
         Soporte técnico telefónico de primer nivel de equipos DELL a empresas y particulares; 
         tramitación de garantia, valoracion y detencion de averias, logistica de envios, establecer
         agenda de tecnicos de campo.
-          - Bullet point
-          - Bullet point
+
     - role: Técnico instalador
       time: Mayo 2015 - Diciembre 2015
       company: Coremain, Santiago de Compostela
       details: |
         Proyecto de substitución de equipos informáticos de los Hospitales y
         centros de salud de toda Galicia (SERGAS). Transporte, instalacion y 
-        configuracion de equipos HP
-          - Bullet point
-          - Bullet point
+        configuracion de equipos HP.
+
 projects:
     title: Projects
     intro: >
